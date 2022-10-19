@@ -1,0 +1,13 @@
+{
+  "DomainType": "Classification",
+  "Platform": "VAIDK",
+  "Flavor": null,
+  "ExporterVersion": "2.0",
+  "ExportedDate": "2022-10-18T16:31:38.1032839Z",
+  "IterationId": "de6772a1-daf0-4a71-87a5-bd8dead86e33",
+  "ModelFileName": "model.dlc",
+  "LabelFileName": "labels.txt",
+  "MetadataPropsFileName": "metadata_properties.json",
+  "ModelFileSHA1": "44266e8bcfdbceb68677fb6d524f2212a5a34bc0",
+  "SchemaVersion": "1.0"
+}
